@@ -1,6 +1,6 @@
 ---
 title: "mapply examples"
-author: "Bart"
+author: "orfalchechor"
 date: "September 4, 2016"
 output: html_document
 ---

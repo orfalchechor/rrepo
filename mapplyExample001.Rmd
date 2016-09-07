@@ -7,7 +7,7 @@ output: html_document
 # Reproducible Research: Peer Assessment 1
 
 Copied from 
-[[https://github.com/sefakilic/coursera-repdata/blob/master/project1/PA1_template.Rmd]]
+[https://github.com/sefakilic/coursera-repdata/blob/master/project1/PA1_template.Rmd]
 
 ## Loading and preprocessing the data
 ```{r loaddata}
